@@ -1,0 +1,2 @@
+clang -O2 -fPIC -c moving_target.c -o moving_target.o
+clang -O2 moving_target.o -o moving_target -lbpf
