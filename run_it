@@ -1,0 +1,2 @@
+sudo ./loader roll.bpf.o &
+./moving_target
